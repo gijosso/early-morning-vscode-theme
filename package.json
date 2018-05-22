@@ -1,0 +1,39 @@
+{
+	"name": "early-morning",
+	"displayName": "Early Morning Theme",
+	"description": "",
+	"version": "0.1.0",
+	"publisher": "gijosso",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Early Morning",
+				"uiTheme": "vs-dark",
+				"path": "./themes/early-morning.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gijosso/early-morning-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/gijosso/early-morning-vscode-theme/issues"
+	},
+	"homepage": "https://github.com/gijosso/early-morning-vscode-theme/blob/master/README.md",
+	"keywords": [
+		"Vscode",
+		"Theme",
+		"Onedark",
+		"Monokai"
+	],
+	"author": "Thomas Josso <thomas.josso@gmail.com>",
+	"license": "MIT"
+}
