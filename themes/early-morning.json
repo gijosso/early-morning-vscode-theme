@@ -690,9 +690,9 @@
     "titleBar.inactiveBackground": "#282C34",
     "titleBar.inactiveForeground": "#6B717D",
     "gitDecoration.deletedResourceForeground": "#FF537090",
-    "gitDecoration.conflictingResourceForeground": "#FFCB6B90",
-    "gitDecoration.modifiedResourceForeground": "#82AAFF90",
-    "gitDecoration.untrackedResourceForeground": "#C3E88D90",
+    "gitDecoration.conflictingResourceForeground": "#ff5370",
+    "gitDecoration.modifiedResourceForeground": "#51b7ca",
+    "gitDecoration.untrackedResourceForeground": "#34b198",
     "gitDecoration.ignoredResourceForeground": "#84848490",
     "peekViewResult.selectionBackground": "#84848470"
   }
