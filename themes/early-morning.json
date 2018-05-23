@@ -103,7 +103,7 @@
       "name": "Keyword Control",
       "scope": ["keyword.control"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "bold"
       }
     },
     {
@@ -689,7 +689,7 @@
     "titleBar.activeForeground": "#9da5b4",
     "titleBar.inactiveBackground": "#282C34",
     "titleBar.inactiveForeground": "#6B717D",
-    "gitDecoration.deletedResourceForeground": "#FF537090",
+    "gitDecoration.deletedResourceForeground": "#FF5370",
     "gitDecoration.conflictingResourceForeground": "#ff5370",
     "gitDecoration.modifiedResourceForeground": "#51b7ca",
     "gitDecoration.untrackedResourceForeground": "#34b198",
