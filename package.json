@@ -15,6 +15,11 @@
         "label": "Early Morning",
         "path": "./themes/early-morning.json",
         "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Early Morning Hangover",
+        "path": "./themes/early-morning-hangover.json",
+        "uiTheme": "vs-dark"
       }
     ]
   },

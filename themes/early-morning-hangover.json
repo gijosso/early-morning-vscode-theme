@@ -1,5 +1,5 @@
 {
-  "name": "Early Morning",
+  "name": "Early Morning Hangover",
   "type": "dark",
   "tokenColors": [
     {
@@ -90,7 +90,7 @@
         "meta.brace.round.js"
       ],
       "settings": {
-        "foreground": "#a9b7c6"
+        "foreground": "#495162"
       }
     },
     {
