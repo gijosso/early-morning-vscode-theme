@@ -2,7 +2,7 @@
   "name": "early-morning",
   "displayName": "Early Morning Theme",
   "description": "",
-  "version": "0.1.2",
+  "version": "0.3.1",
   "publisher": "gijosso",
   "engines": {
     "vscode": "^1.13.0"
@@ -32,7 +32,15 @@
   },
   "homepage":
     "https://github.com/gijosso/early-morning-vscode-theme/blob/master/README.md",
-  "keywords": ["Vscode", "Theme", "Onedark", "Monokai"],
+  "keywords": [
+    "Vscode",
+    "Theme",
+    "Onedark",
+    "Material",
+    "Early",
+    "Morning",
+    "Hangover"
+  ],
   "author": "Thomas Josso <thomas.josso@gmail.com>",
   "license": "MIT"
 }
