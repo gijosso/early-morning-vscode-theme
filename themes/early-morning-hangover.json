@@ -79,32 +79,35 @@
       }
     },
     {
-      "name": "Shadow Punctuation",
-      "scope": [
-        "punctuation.separator.comma.js",
-        "punctuation.separator.parameter.js",
-        "punctuation.definition.parameters.begin.js",
-        "punctuation.definition.parameters.end.js",
-        "punctuation.terminator.statement.js",
-        "punctuation.definition.block.js",
-        "meta.brace.round.js"
-      ],
-      "settings": {
-        "foreground": "#495162"
-      }
-    },
-    {
       "name": "Punctuation",
       "scope": [
         "punctuation",
         "punctuation.separator.inheritance.php",
-        "punctuation.section.embedded",
+        "punctuation.definition.block.js",
         "punctuation.definition.binding-pattern.object.js",
+        "meta.tag.attributes.js meta.embedded.expression.js punctuation.definition.block.js",
         "meta.object-binding-pattern-variable.js",
-        "meta.objectliteral.js punctuation.definition.block.js"
+        "meta.embedded.expression.js meta.brace.round.js"
       ],
       "settings": {
         "foreground": "#a9b7c6"
+      }
+    },
+    {
+      "name": "Shadow Punctuation",
+      "scope": [
+        "punctuation.separator.comma.js",
+        "punctuation.separator.parameter.js",
+        "punctuation.section.embedded",
+        "punctuation.definition.parameters.begin.js",
+        "punctuation.definition.parameters.end.js",
+        "punctuation.terminator.statement.js",
+        "punctuation.definition.block.js",
+        "meta.objectliteral.js punctuation.definition.block.js",
+        "meta.brace.round.js"
+      ],
+      "settings": {
+        "foreground": "#495162"
       }
     },
     {
