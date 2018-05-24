@@ -129,7 +129,8 @@
         "punctuation.definition.typeparameters.begin.js",
         "punctuation.definition.typeparameters.end.js",
         "punctuation.separator.key-value.js",
-        "punctuation.accessor.js"
+        "punctuation.accessor.js",
+        "punctuation.definition.section.case-statement.js"
       ],
       "settings": {
         "foreground": "#b56cc8",
