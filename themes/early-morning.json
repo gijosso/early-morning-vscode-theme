@@ -100,7 +100,8 @@
         "punctuation.separator.inheritance.php",
         "punctuation.section.embedded",
         "punctuation.definition.binding-pattern.object.js",
-        "meta.object-binding-pattern-variable.js"
+        "meta.object-binding-pattern-variable.js",
+        "meta.objectliteral.js punctuation.definition.block.js"
       ],
       "settings": {
         "foreground": "#a9b7c6"
@@ -324,7 +325,7 @@
     },
     {
       "name": "Language methods",
-      "scope": ["variable.language"],
+      "scope": ["variable.language", "support.class.console.js"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#34b198"
