@@ -156,7 +156,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f78c6c"
+        "foreground": "#ffdd80"
       }
     },
     {
@@ -251,7 +251,6 @@
       "name": "Class, Support",
       "scope": [
         "entity.name.class",
-        "entity.name.type.class.js",
         "entity.name.module",
         "support.class",
         "support.orther.namespace.use.php",
@@ -262,6 +261,16 @@
       ],
       "settings": {
         "foreground": "#ffdd80"
+      }
+    },
+    {
+      "name": "File Class",
+      "scope": [
+        "entity.name.type.class.js"
+      ],
+      "settings": {
+        "foreground": "#f78c6c",
+        "fontStyle": "bold"
       }
     },
     {
